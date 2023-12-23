@@ -1,0 +1,14 @@
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\bin\Debug\net7.0\KnowledgeCheck2.exe
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\bin\Debug\net7.0\KnowledgeCheck2.deps.json
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\bin\Debug\net7.0\KnowledgeCheck2.runtimeconfig.json
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\bin\Debug\net7.0\KnowledgeCheck2.dll
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\bin\Debug\net7.0\KnowledgeCheck2.pdb
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.AssemblyInfo.cs
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.dll
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\refint\KnowledgeCheck2.dll
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.pdb
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\KnowledgeCheck2.genruntimeconfig.cache
+C:\Users\Melody\OneDrive\Documents\Code KY\Projects\sdc1-knowledge-check-2\KnowledgeCheck2\obj\Debug\net7.0\ref\KnowledgeCheck2.dll
